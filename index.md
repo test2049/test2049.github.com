@@ -5,7 +5,7 @@ layout: wikistyle
 
 Yapple yapple.
 
-{% highlight ruby %}
+{% highlight ruby" %}
 1
 {% endhighlight %}
 
