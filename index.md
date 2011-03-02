@@ -5,6 +5,12 @@ layout: wikistyle
 
 Yapple yapple.
 
+{% highlight ruby foo=bar baz=qux %}
+"0x80813ff4".hex                                 # => 2155954164
+"0x101027fe8".hex                                # => 4311908328
+{% endhighlight %}
+
+
 Introduction to Pages
 =====================
 
