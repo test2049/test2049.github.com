@@ -3,6 +3,8 @@ title: Home
 layout: wikistyle
 ---
 
+Yapple yapple.
+
 Introduction to Pages
 =====================
 
