@@ -5,8 +5,9 @@ layout: wikistyle
 
 Yapple yapple.
 
-{% highlight ruby encoding=bz2_codec outencoding=bz2_codec %}
-3
+{% highlight ruby %}
+ encoding=bz2_codec outencoding=bz2_codec 
+4
 {% endhighlight %}
 
 
